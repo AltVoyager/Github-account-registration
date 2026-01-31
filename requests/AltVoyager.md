@@ -5,5 +5,5 @@
 **GitHub Username:** [@AltVoyager]
 
 **Justification:**
-[Joined the team on Jan 20th, need access to contributing to the main repo.]
+[Joined the team on Jan 20th, need access to contributing to the main repo. ]
 
